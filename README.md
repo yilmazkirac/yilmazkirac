@@ -18,7 +18,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+<div align="center">  
 
 ### Frontend  
 <div align="center">  
@@ -53,7 +53,7 @@
 
 <br/>  
 
-
+</div>
 ## Connect with me  
 <div align="center">
 <a href="[https://linkedin.com/in/yılmaz-kıraç](https://www.linkedin.com/in/y%C4%B1lmaz-k%C4%B1ra%C3%A7-1bb17a223/)" target="_blank">
